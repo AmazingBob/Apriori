@@ -1,3 +1,7 @@
+>Github 项目地址：https://github.com/AmazingBob/Apriori
+>
+>转载请注明作者（AmazingBob)
+
 ### 一、 先验算法
 
 ---
